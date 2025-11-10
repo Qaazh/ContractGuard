@@ -38,7 +38,7 @@ graph LR
     F -->|10. Generate Presigned URL| H
     H -->|11. Return Result Link| A
 ```
-
+For more detailed overview, see the [Architecture in depth](architecture.md)
 ---
 
 ## 🔧 Tech Stack
