@@ -218,18 +218,18 @@ flowchart TD
 ---
 ## Roadmap
 
-### Phase 1: Current (PartyRock Demo + Docs)
+### Phase 1:
 - ✅ PartyRock prototype live
 - ✅ Architecture documentation
 - ✅ Repository structure
 
-### Phase 2: AWS Serverless Build (Next)
+### Phase 2: AWS Serverless Build 
 - ✅ Implement `extract_handler.py`
 - ✅ Implement `analyze_handler.py`
 - ✅ Create CloudFormation template
 - ✅ Deploy to personal AWS account
 
-### Phase 3: Frontend (Optional)
+### Phase 3: Frontend
 - ✅ Build S3 presigned upload UI
 - [ ] Add result polling and display
 - [ ] Deploy to S3 + CloudFront
