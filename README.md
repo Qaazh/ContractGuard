@@ -1,4 +1,4 @@
-# ContractGuardAI Contract Risk Assessment Tool (AWS)
+# ContractGuard Contract Risk Assessment Tool (AWS)
 
 **Winner, Amazon Munich Hackathon 2025**
 
